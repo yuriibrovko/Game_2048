@@ -1,0 +1,9 @@
+C:\Users\bromi\Desktop\2048_GameTests\bin\Debug\2048_GameTests.dll
+C:\Users\bromi\Desktop\2048_GameTests\bin\Debug\2048_GameTests.pdb
+C:\Users\bromi\Desktop\2048_GameTests\bin\Debug\2048_Game.exe
+C:\Users\bromi\Desktop\2048_GameTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bromi\Desktop\2048_GameTests\bin\Debug\2048_Game.pdb
+C:\Users\bromi\Desktop\2048_GameTests\obj\Debug\2048_GameTests.csprojResolveAssemblyReference.cache
+C:\Users\bromi\Desktop\2048_GameTests\obj\Debug\2048_GameTests.csproj.CoreCompileInputs.cache
+C:\Users\bromi\Desktop\2048_GameTests\obj\Debug\2048_GameTests.dll
+C:\Users\bromi\Desktop\2048_GameTests\obj\Debug\2048_GameTests.pdb
